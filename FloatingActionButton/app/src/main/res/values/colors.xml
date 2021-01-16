@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="ash">#b2beb5</color>
+    <color name="Pantoneblue">#0f4c81</color>
+    <color name="violet">#645394</color>
+    <color name="tomato">#e34132</color>
+    <color name="skyblue">#6ca0dc</color>
+    <color name="pinkLavender">#dbb2d1</color>
+    <color name="warmtone">#ec9787</color>
+    <color name="green">#00a68c</color>
+</resources>
